@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](/LOGO.png)
 - This is the official Github Accounts of the **FutureMind AI Workshop**! 
 - We are keen AI learners from BJTU with diverse disciplainary background.
 - The workshop is established by Bingxi and his friends in May 2025, with the help of [Academic Support Center](https://wdean.bjtu.edu.cn:8083/#/nav/2681737046134785/2881438232088576)
